@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Danny 👋
 
-<!--
-**DannyphantomX2/DannyphantomX2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ I work on hands-on cybersecurity labs focused on network security, packet analysis, and routing.
 
-Here are some ideas to get you started:
+🤝 I'm open to collaborating on cybersecurity projects, Python automation tools, and beginner-friendly security research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I'm improving my skills in advanced security testing techniques and real-world SOC workflows.
+
+📚 I'm currently learning network defense, packet analysis with Wireshark, and security-focused Python scripting.
+
+💬 Ask me about cybersecurity fundamentals, Cisco Packet Tracer labs, Python basics, and building simple websites.
+
+⚡ Fun fact: I enjoy breaking down complex security concepts into simple, practical steps.
